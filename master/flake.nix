@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-ssh2-master.flake = false;
+  inputs.src-ssh2-master.ref   = "refs/heads/master";
   inputs.src-ssh2-master.owner = "ba0f3";
-  inputs.src-ssh2-master.ref   = "master";
   inputs.src-ssh2-master.repo  = "ssh2.nim";
   inputs.src-ssh2-master.type  = "github";
   
