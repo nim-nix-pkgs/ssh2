@@ -26,45 +26,18 @@
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
-        "libssh2-master": "libssh2-master",
         "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1648107730,
-        "narHash": "sha256-g+R6z1EhoU4zBNFWyZZaqTj9Dxnpkwujt83Z38hP1Q0=",
-        "owner": "nim-nix-pkgs",
-        "repo": "libssh2",
-        "rev": "5e665c26e165103fb295a46b2a989ddbe05a597d",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "libssh2",
-        "type": "github"
-      }
-    },
-    "libssh2-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "libssh2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "libssh2",
           "nixpkgs"
         ],
         "src-libssh2-master": "src-libssh2-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107730,
-        "narHash": "sha256-g+R6z1EhoU4zBNFWyZZaqTj9Dxnpkwujt83Z38hP1Q0=",
+        "lastModified": 1648163240,
+        "narHash": "sha256-KiwGXDhkrhC25kkdv9hEp5b6Gxt1iu6l1nweNFV2L3M=",
         "owner": "nim-nix-pkgs",
         "repo": "libssh2",
-        "rev": "5e665c26e165103fb295a46b2a989ddbe05a597d",
+        "rev": "c50a414eea93b6592f23b36d4bc4e962ebc727ef",
         "type": "github"
       },
       "original": {
