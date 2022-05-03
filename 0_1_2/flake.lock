@@ -64,7 +64,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "libssh2": "libssh2",
         "nixpkgs": "nixpkgs",
-        "src-ssh2-master": "src-ssh2-master"
+        "src-ssh2-0_1_2": "src-ssh2-0_1_2"
       }
     },
     "src-libssh2-0_1_6": {
@@ -84,7 +84,7 @@
         "type": "github"
       }
     },
-    "src-ssh2-master": {
+    "src-ssh2-0_1_2": {
       "flake": false,
       "locked": {
         "lastModified": 1650811657,
@@ -96,7 +96,7 @@
       },
       "original": {
         "owner": "ba0f3",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.1.2",
         "repo": "ssh2.nim",
         "type": "github"
       }
